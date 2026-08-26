@@ -1,0 +1,5 @@
+package com.roadnet.entity;
+
+public enum ExperienceCategory {
+    WELLNESS, MASSAGE, TRAVEL, CULTURAL, EVENTS, SOCIAL_ACTIVITIES, COUPLE_ACTIVITIES, LOCAL_EXPERIENCES
+}
